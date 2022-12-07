@@ -19,4 +19,4 @@ To run ths file the following requirements are needed:
 4. Run the code and get visual representations of the results!
 
 
-For better visual representation of not dominant emotions use log = "true" when plotting the bar chart.
+For better visual representation of non dominant emotions use log = "true" when plotting the bar chart.
